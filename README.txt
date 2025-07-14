@@ -1,4 +1,4 @@
-Overview
+# <u>**Overview**</u>
 This project is a C++ implementation of a two-player bean-themed card game inspired by Bohnanza. Players collect and trade cards featuring eight types of beans, forming chains of identical beans to earn coins. The game emphasizes strategic trading, hand management, and chain building. The player with the most coins at the end wins.
 
 The program models core game mechanics such as card dealing, hand sorting, trading, planting in chains, harvesting chains for coins, and managing visible and hidden cards according to the game rules.
